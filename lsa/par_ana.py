@@ -135,7 +135,7 @@ SLURM_PREAMBLE = """#!/bin/bash
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=%d000M
 source ~/.bashrc
-conda activate charade
+conda activate elsa
 
 ## Activate conda environment
 ## Note: you may need to do something different here depending on how your HPC handles conda
@@ -143,7 +143,7 @@ conda activate charade
 ## module load anaconda/py3
 #module load anaconda/colsa
 #source $(conda info --base)/etc/profile.d/conda.sh # activates base environment
-#conda activate charade"""
+#conda activate elsa"""
 vmem=12
 
 def gen_slurm(singleFile, singleCmd, workDir, singleEnd, vmem):
