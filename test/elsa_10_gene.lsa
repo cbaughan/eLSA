@@ -1,0 +1,962 @@
+X	Y	LS	lowCI	upCI	Xs	Ys	Len	Delay	P	PCC	Ppcc	SPCC	Pspcc	Dspcc	SCC	Pscc	SSCC	Psscc	Dsscc	Q	Qpcc	Qspcc	Qscc	Qsscc	Xi	Yi
+	HNP00_000002	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	1
+	HNP00_000003	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	2
+	HNP00_000004	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	3
+	HNP00_000005	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	4
+	HNP00_000006	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	5
+	HNP00_000007	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	6
+	HNP00_000011	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	7
+	HNP00_000013	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	8
+	HNP00_000014	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	9
+	HNP00_000015	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	10
+	HNP00_000016	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	11
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+	HNP00_000002	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	1
+	HNP00_000003	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	2
+	HNP00_000004	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	3
+	HNP00_000005	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	4
+	HNP00_000006	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	5
+	HNP00_000007	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	6
+	HNP00_000011	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	7
+	HNP00_000013	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	8
+	HNP00_000014	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	9
+	HNP00_000015	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	10
+	HNP00_000016	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	11
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+	HNP00_000002	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	1
+	HNP00_000003	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	2
+	HNP00_000004	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	3
+	HNP00_000005	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	4
+	HNP00_000006	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	5
+	HNP00_000007	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	6
+	HNP00_000011	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	7
+	HNP00_000013	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	8
+	HNP00_000014	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	9
+	HNP00_000015	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	10
+	HNP00_000016	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	11
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+	HNP00_000002	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	1
+	HNP00_000003	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	2
+	HNP00_000004	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	3
+	HNP00_000005	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	4
+	HNP00_000006	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	5
+	HNP00_000007	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	6
+	HNP00_000011	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	7
+	HNP00_000013	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	8
+	HNP00_000014	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	9
+	HNP00_000015	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	10
+	HNP00_000016	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	11
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+	HNP00_000002	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	1
+	HNP00_000003	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	2
+	HNP00_000004	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	3
+	HNP00_000005	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	4
+	HNP00_000006	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	5
+	HNP00_000007	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	6
+	HNP00_000011	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	7
+	HNP00_000013	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	8
+	HNP00_000014	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	9
+	HNP00_000015	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	10
+	HNP00_000016	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	11
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+	HNP00_000002	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	1
+	HNP00_000003	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	2
+	HNP00_000004	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	3
+	HNP00_000005	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	4
+	HNP00_000006	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	5
+	HNP00_000007	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	6
+	HNP00_000011	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	7
+	HNP00_000013	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	8
+	HNP00_000014	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	9
+	HNP00_000015	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	10
+	HNP00_000016	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	11
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+	HNP00_000002	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	1
+	HNP00_000003	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	2
+	HNP00_000004	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	3
+	HNP00_000005	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	4
+	HNP00_000006	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	5
+	HNP00_000007	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	6
+	HNP00_000011	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	7
+	HNP00_000013	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	8
+	HNP00_000014	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	9
+	HNP00_000015	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	10
+	HNP00_000016	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	11
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+	HNP00_000002	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	1
+	HNP00_000003	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	2
+	HNP00_000004	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	3
+	HNP00_000005	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	4
+	HNP00_000006	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	5
+	HNP00_000007	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	6
+	HNP00_000011	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	7
+	HNP00_000013	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	8
+	HNP00_000014	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	9
+	HNP00_000015	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	10
+	HNP00_000016	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	11
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+	HNP00_000002	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	1
+	HNP00_000003	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	2
+	HNP00_000004	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	3
+	HNP00_000005	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	4
+	HNP00_000006	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	5
+	HNP00_000007	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	6
+	HNP00_000011	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	7
+	HNP00_000013	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	8
+	HNP00_000014	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	9
+	HNP00_000015	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	10
+	HNP00_000016	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	11
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+	HNP00_000002	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	1
+	HNP00_000003	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	2
+	HNP00_000004	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	3
+	HNP00_000005	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	4
+	HNP00_000006	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	5
+	HNP00_000007	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	6
+	HNP00_000011	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	7
+	HNP00_000013	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	8
+	HNP00_000014	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	9
+	HNP00_000015	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	10
+	HNP00_000016	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	11
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+	HNP00_000002	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	1
+	HNP00_000003	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	2
+	HNP00_000004	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	3
+	HNP00_000005	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	4
+	HNP00_000006	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	5
+	HNP00_000007	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	6
+	HNP00_000011	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	7
+	HNP00_000013	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	8
+	HNP00_000014	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	9
+	HNP00_000015	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	10
+	HNP00_000016	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	11
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+	HNP00_000002	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	1
+	HNP00_000003	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	2
+	HNP00_000004	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	3
+	HNP00_000005	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	4
+	HNP00_000006	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	5
+	HNP00_000007	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	6
+	HNP00_000011	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	7
+	HNP00_000013	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	8
+	HNP00_000014	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	9
+	HNP00_000015	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	10
+	HNP00_000016	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	11
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+	HNP00_000002	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	1
+	HNP00_000003	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	2
+	HNP00_000004	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	3
+	HNP00_000005	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	4
+	HNP00_000006	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	5
+	HNP00_000007	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	6
+	HNP00_000011	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	7
+	HNP00_000013	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	8
+	HNP00_000014	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	9
+	HNP00_000015	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	10
+	HNP00_000016	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	11
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+	HNP00_000002	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	1
+	HNP00_000003	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	2
+	HNP00_000004	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	3
+	HNP00_000005	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	4
+	HNP00_000006	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	5
+	HNP00_000007	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	6
+	HNP00_000011	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	7
+	HNP00_000013	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	8
+	HNP00_000014	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	9
+	HNP00_000015	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	10
+	HNP00_000016	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	11
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+	HNP00_000002	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	1
+	HNP00_000003	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	2
+	HNP00_000004	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	3
+	HNP00_000005	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	4
+	HNP00_000006	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	5
+	HNP00_000007	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	6
+	HNP00_000011	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	7
+	HNP00_000013	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	8
+	HNP00_000014	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	9
+	HNP00_000015	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	10
+	HNP00_000016	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	11
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+HNP00_000003	HNP00_000002	0.586251	0.586251	0.586251	1	1	4	0	0.083000	0.862951	0.137049	0.862951	0.137049	0	1.000000	0.000000	1.000000	0.000000	0	0.058667	0.137049	0.137049	0.000000	0.000000	1	1
+HNP00_000003	HNP00_000003	0.586251	0.586251	0.586251	1	1	4	0	0.077000	1.000000	0.000000	1.000000	0.000000	0	1.000000	0.000000	1.000000	0.000000	0	0.058667	0.000000	0.000000	0.000000	0.000000	1	2
+HNP00_000003	HNP00_000004	0.349677	0.349677	0.349677	3	3	2	0	0.468000	0.172226	0.827774	0.172226	0.827774	0	0.400000	0.600000	0.400000	0.600000	0	0.156000	0.376261	0.376261	0.290909	0.290909	1	3
+HNP00_000003	HNP00_000005	0.454938	0.454938	0.454938	1	1	4	0	0.326000	0.826949	0.173051	0.826949	0.173051	0	0.800000	0.200000	0.800000	0.200000	0	0.156000	0.144209	0.144209	0.133333	0.133333	1	4
+HNP00_000003	HNP00_000006	0.586251	0.586251	0.586251	1	1	4	0	0.076000	0.864475	0.135525	0.864475	0.135525	0	1.000000	0.000000	1.000000	0.000000	0	0.058667	0.137049	0.137049	0.000000	0.000000	1	5
+HNP00_000003	HNP00_000007	0.586251	0.586251	0.586251	1	1	4	0	0.072000	0.894059	0.105941	0.894059	0.105941	0	1.000000	0.000000	1.000000	0.000000	0	0.058667	0.137049	0.137049	0.000000	0.000000	1	6
+HNP00_000003	HNP00_000011	0.586251	0.586251	0.586251	1	1	4	0	0.088000	0.897375	0.102625	0.897375	0.102625	0	1.000000	0.000000	1.000000	0.000000	0	0.058667	0.137049	0.137049	0.000000	0.000000	1	7
+HNP00_000003	HNP00_000013	-0.349677	-0.349677	-0.349677	1	1	2	0	0.467000	-0.210721	0.789279	-0.210721	0.789279	0	-0.400000	0.600000	-0.400000	0.600000	0	0.156000	0.376261	0.376261	0.290909	0.290909	1	8
+HNP00_000003	HNP00_000014	-0.349677	-0.349677	-0.349677	1	1	2	0	0.462000	-0.514577	0.485423	-0.514577	0.485423	0	-0.400000	0.600000	-0.400000	0.600000	0	0.156000	0.294332	0.294332	0.290909	0.290909	1	9
+HNP00_000003	HNP00_000015	-0.293125	-0.293125	-0.293125	3	3	2	0	0.712000	-0.470203	0.529797	-0.470203	0.529797	0	-0.200000	0.800000	-0.200000	0.800000	0	0.215758	0.294332	0.294332	0.290909	0.290909	1	10
+HNP00_000003	HNP00_000016	0.349677	0.349677	0.349677	1	1	2	0	0.360000	0.618061	0.381939	0.618061	0.381939	0	0.400000	0.600000	0.400000	0.600000	0	0.156000	0.272814	0.272814	0.290909	0.290909	1	11
+HNP00_000003		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+HNP00_000003		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+HNP00_000003		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+HNP00_000003		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+HNP00_000003		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+HNP00_000003		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+HNP00_000003		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+HNP00_000003		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+HNP00_000003		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+HNP00_000003		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+HNP00_000003		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+HNP00_000003		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+HNP00_000003		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+HNP00_000003		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+HNP00_000003		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+HNP00_000003		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+HNP00_000003		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+HNP00_000003		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+HNP00_000003		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+HNP00_000003		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+	HNP00_000002	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	1
+	HNP00_000003	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	2
+	HNP00_000004	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	3
+	HNP00_000005	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	4
+	HNP00_000006	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	5
+	HNP00_000007	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	6
+	HNP00_000011	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	7
+	HNP00_000013	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	8
+	HNP00_000014	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	9
+	HNP00_000015	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	10
+	HNP00_000016	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	11
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+HNP00_000007	HNP00_000002	0.586251	0.586251	0.586251	1	1	4	0	0.088000	0.983289	0.016711	0.983289	0.016711	0	1.000000	0.000000	1.000000	0.000000	0	0.061333	0.083555	0.083555	0.000000	0.000000	1	1
+HNP00_000007	HNP00_000003	0.586251	0.586251	0.586251	1	1	4	0	0.074000	0.894059	0.105941	0.894059	0.105941	0	1.000000	0.000000	1.000000	0.000000	0	0.061333	0.211882	0.211882	0.000000	0.000000	1	2
+HNP00_000007	HNP00_000004	0.349677	0.349677	0.349677	3	3	2	0	0.482000	-0.033570	0.966430	-0.033570	0.966430	0	0.400000	0.600000	0.400000	0.600000	0	0.160667	0.878573	0.878573	0.290909	0.290909	1	3
+HNP00_000007	HNP00_000005	0.454938	0.454938	0.454938	1	1	4	0	0.359000	0.659606	0.340394	0.659606	0.340394	0	0.800000	0.200000	0.800000	0.200000	0	0.160667	0.425492	0.425492	0.133333	0.133333	1	4
+HNP00_000007	HNP00_000006	0.586251	0.586251	0.586251	1	1	4	0	0.078000	0.953613	0.046387	0.953613	0.046387	0	1.000000	0.000000	1.000000	0.000000	0	0.061333	0.115968	0.115968	0.000000	0.000000	1	5
+HNP00_000007	HNP00_000007	0.586251	0.586251	0.586251	1	1	4	0	0.092000	1.000000	0.000000	1.000000	0.000000	0	1.000000	0.000000	1.000000	0.000000	0	0.061333	0.000000	0.000000	0.000000	0.000000	1	6
+HNP00_000007	HNP00_000011	0.586251	0.586251	0.586251	1	1	4	0	0.073000	0.957379	0.042621	0.957379	0.042621	0	1.000000	0.000000	1.000000	0.000000	0	0.061333	0.115968	0.115968	0.000000	0.000000	1	7
+HNP00_000007	HNP00_000013	-0.349677	-0.349677	-0.349677	1	1	2	0	0.466000	-0.466835	0.533165	-0.466835	0.533165	0	-0.400000	0.600000	-0.400000	0.600000	0	0.160667	0.592406	0.592406	0.290909	0.290909	1	8
+HNP00_000007	HNP00_000014	-0.349677	-0.349677	-0.349677	1	1	2	0	0.464000	-0.750657	0.249343	-0.750657	0.249343	0	-0.400000	0.600000	-0.400000	0.600000	0	0.160667	0.356204	0.356204	0.290909	0.290909	1	9
+HNP00_000007	HNP00_000015	-0.293125	-0.293125	-0.293125	3	3	2	0	0.705000	-0.363579	0.636421	-0.363579	0.636421	0	-0.200000	0.800000	-0.200000	0.800000	0	0.213636	0.636421	0.636421	0.290909	0.290909	1	10
+HNP00_000007	HNP00_000016	0.349677	0.349677	0.349677	1	1	2	0	0.382000	0.754238	0.245762	0.754238	0.245762	0	0.400000	0.600000	0.400000	0.600000	0	0.160667	0.356204	0.356204	0.290909	0.290909	1	11
+HNP00_000007		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+HNP00_000007		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+HNP00_000007		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+HNP00_000007		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+HNP00_000007		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+HNP00_000007		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+HNP00_000007		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+HNP00_000007		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+HNP00_000007		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+HNP00_000007		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+HNP00_000007		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+HNP00_000007		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+HNP00_000007		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+HNP00_000007		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+HNP00_000007		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+HNP00_000007		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+HNP00_000007		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+HNP00_000007		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+HNP00_000007		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+HNP00_000007		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+HNP00_000016	HNP00_000002	0.349677	0.349677	0.349677	1	1	2	0	0.395000	0.631169	0.368831	0.631169	0.368831	0	0.400000	0.600000	0.400000	0.600000	0	0.438889	0.530374	0.530374	0.750000	0.750000	1	1
+HNP00_000016	HNP00_000003	0.349677	0.349677	0.349677	1	1	2	0	0.379000	0.618061	0.381939	0.618061	0.381939	0	0.400000	0.600000	0.400000	0.600000	0	0.438889	0.530374	0.530374	0.750000	0.750000	1	2
+HNP00_000016	HNP00_000004	-0.323625	-0.323625	-0.323625	1	1	4	0	0.658000	-0.656679	0.343321	-0.656679	0.343321	0	-0.600000	0.400000	-0.600000	0.400000	0	0.658000	0.530374	0.530374	0.750000	0.750000	1	3
+HNP00_000016	HNP00_000005	-0.161812	-0.161812	-0.161812	3	3	2	0	1.000000	0.087240	0.912760	0.087240	0.912760	0	0.000000	1.000000	0.000000	1.000000	0	0.909091	0.829782	0.829782	0.909091	0.909091	1	4
+HNP00_000016	HNP00_000006	0.349677	0.349677	0.349677	1	1	2	0	0.364000	0.522663	0.477337	0.522663	0.477337	0	0.400000	0.600000	0.400000	0.600000	0	0.438889	0.530374	0.530374	0.750000	0.750000	1	5
+HNP00_000016	HNP00_000007	0.349677	0.349677	0.349677	1	1	2	0	0.391000	0.754238	0.245762	0.754238	0.245762	0	0.400000	0.600000	0.400000	0.600000	0	0.438889	0.530374	0.530374	0.750000	0.750000	1	6
+HNP00_000016	HNP00_000011	0.349677	0.349677	0.349677	1	1	2	0	0.377000	0.534125	0.465875	0.534125	0.465875	0	0.400000	0.600000	0.400000	0.600000	0	0.438889	0.530374	0.530374	0.750000	0.750000	1	7
+HNP00_000016	HNP00_000013	-0.586251	-0.586251	-0.586251	1	1	4	0	0.078000	-0.896296	0.103704	-0.896296	0.103704	0	-1.000000	0.000000	-1.000000	0.000000	0	0.270000	0.345679	0.345679	0.000000	0.000000	1	8
+HNP00_000016	HNP00_000014	-0.586251	-0.586251	-0.586251	1	1	4	0	0.070000	-0.971425	0.028575	-0.971425	0.028575	0	-1.000000	0.000000	-1.000000	0.000000	0	0.270000	0.142875	0.142875	0.000000	0.000000	1	9
+HNP00_000016	HNP00_000015	0.454938	0.454938	0.454938	1	1	4	0	0.341000	0.329359	0.670641	0.329359	0.670641	0	0.800000	0.200000	0.800000	0.200000	0	0.438889	0.670641	0.670641	0.500000	0.500000	1	10
+HNP00_000016	HNP00_000016	0.586251	0.586251	0.586251	1	1	4	0	0.081000	1.000000	0.000000	1.000000	0.000000	0	1.000000	0.000000	1.000000	0.000000	0	0.270000	0.000000	0.000000	0.000000	0.000000	1	11
+HNP00_000016		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+HNP00_000016		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+HNP00_000016		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+HNP00_000016		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+HNP00_000016		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+HNP00_000016		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+HNP00_000016		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+HNP00_000016		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+HNP00_000016		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+HNP00_000016		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+HNP00_000016		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+HNP00_000016		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+HNP00_000016		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+HNP00_000016		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+HNP00_000016		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+HNP00_000016		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+HNP00_000016		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+HNP00_000016		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+HNP00_000016		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+HNP00_000016		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+HNP00_000002	HNP00_000002	0.586251	0.586251	0.586251	1	1	4	0	0.069000	1.000000	0.000000	1.000000	0.000000	0	1.000000	0.000000	1.000000	0.000000	0	0.049714	0.000000	0.000000	0.000000	0.000000	1	1
+HNP00_000002	HNP00_000003	0.586251	0.586251	0.586251	1	1	4	0	0.086000	0.862951	0.137049	0.862951	0.137049	0	1.000000	0.000000	1.000000	0.000000	0	0.049714	0.182731	0.182731	0.000000	0.000000	1	2
+HNP00_000002	HNP00_000004	0.349677	0.349677	0.349677	3	3	2	0	0.480000	0.109802	0.890198	0.109802	0.890198	0	0.400000	0.600000	0.400000	0.600000	0	0.137143	0.539514	0.539514	0.290909	0.290909	1	3
+HNP00_000002	HNP00_000005	0.454938	0.454938	0.454938	1	1	4	0	0.309000	0.724642	0.275358	0.724642	0.275358	0	0.800000	0.200000	0.800000	0.200000	0	0.137143	0.305953	0.305953	0.133333	0.133333	1	4
+HNP00_000002	HNP00_000006	0.586251	0.586251	0.586251	1	1	4	0	0.082000	0.990226	0.009774	0.990226	0.009774	0	1.000000	0.000000	1.000000	0.000000	0	0.049714	0.027852	0.027852	0.000000	0.000000	1	5
+HNP00_000002	HNP00_000007	0.586251	0.586251	0.586251	1	1	4	0	0.086000	0.983289	0.016711	0.983289	0.016711	0	1.000000	0.000000	1.000000	0.000000	0	0.049714	0.027852	0.027852	0.000000	0.000000	1	6
+HNP00_000002	HNP00_000011	0.586251	0.586251	0.586251	1	1	4	0	0.087000	0.986869	0.013131	0.986869	0.013131	0	1.000000	0.000000	1.000000	0.000000	0	0.049714	0.027852	0.027852	0.000000	0.000000	1	7
+HNP00_000002	HNP00_000013	-0.349677	-0.349677	-0.349677	1	1	2	0	0.458000	-0.341057	0.658943	-0.341057	0.658943	0	-0.400000	0.600000	-0.400000	0.600000	0	0.137143	0.439296	0.439296	0.290909	0.290909	1	8
+HNP00_000002	HNP00_000014	-0.349677	-0.349677	-0.349677	1	1	2	0	0.456000	-0.650678	0.349322	-0.650678	0.349322	0	-0.400000	0.600000	-0.400000	0.600000	0	0.137143	0.307359	0.307359	0.290909	0.290909	1	9
+HNP00_000002	HNP00_000015	-0.293125	-0.293125	-0.293125	3	3	2	0	0.699000	-0.501657	0.498343	-0.501657	0.498343	0	-0.200000	0.800000	-0.200000	0.800000	0	0.181558	0.369143	0.369143	0.290909	0.290909	1	10
+HNP00_000002	HNP00_000016	0.349677	0.349677	0.349677	1	1	2	0	0.399000	0.631169	0.368831	0.631169	0.368831	0	0.400000	0.600000	0.400000	0.600000	0	0.137143	0.307359	0.307359	0.290909	0.290909	1	11
+HNP00_000002		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+HNP00_000002		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+HNP00_000002		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+HNP00_000002		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+HNP00_000002		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+HNP00_000002		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+HNP00_000002		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+HNP00_000002		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+HNP00_000002		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+HNP00_000002		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+HNP00_000002		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+HNP00_000002		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+HNP00_000002		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+HNP00_000002		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+HNP00_000002		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+HNP00_000002		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+HNP00_000002		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+HNP00_000002		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+HNP00_000002		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+HNP00_000002		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+HNP00_000015	HNP00_000002	-0.293125	-0.293125	-0.293125	3	3	2	0	0.771000	-0.501657	0.498343	-0.501657	0.498343	0	-0.200000	0.800000	-0.200000	0.800000	0	0.366364	0.348385	0.348385	0.977778	0.977778	1	1
+HNP00_000015	HNP00_000003	-0.293125	-0.293125	-0.293125	3	3	2	0	0.797000	-0.470203	0.529797	-0.470203	0.529797	0	-0.200000	0.800000	-0.200000	0.800000	0	0.366364	0.348385	0.348385	0.977778	0.977778	1	2
+HNP00_000015	HNP00_000004	-0.454938	-0.454938	-0.454938	1	1	4	0	0.307000	-0.912846	0.087154	-0.912846	0.087154	0	-0.800000	0.200000	-0.800000	0.200000	0	0.331000	0.233824	0.233824	0.733333	0.733333	1	3
+HNP00_000015	HNP00_000005	-0.349677	-0.349677	-0.349677	3	3	2	0	0.462000	-0.877242	0.122758	-0.877242	0.122758	0	-0.400000	0.600000	-0.400000	0.600000	0	0.366364	0.233824	0.233824	0.977778	0.977778	1	4
+HNP00_000015	HNP00_000006	-0.293125	-0.293125	-0.293125	3	3	2	0	0.806000	-0.617213	0.382787	-0.617213	0.382787	0	-0.200000	0.800000	-0.200000	0.800000	0	0.366364	0.348385	0.348385	0.977778	0.977778	1	5
+HNP00_000015	HNP00_000007	-0.293125	-0.293125	-0.293125	3	3	2	0	0.794000	-0.363579	0.636421	-0.363579	0.636421	0	-0.200000	0.800000	-0.200000	0.800000	0	0.366364	0.348385	0.348385	0.977778	0.977778	1	6
+HNP00_000015	HNP00_000011	-0.293125	-0.293125	-0.293125	3	3	2	0	0.780000	-0.617036	0.382964	-0.617036	0.382964	0	-0.200000	0.800000	-0.200000	0.800000	0	0.366364	0.348385	0.348385	0.977778	0.977778	1	7
+HNP00_000015	HNP00_000013	-0.454938	-0.454938	-0.454938	1	1	4	0	0.244000	-0.638705	0.361295	-0.638705	0.361295	0	-0.800000	0.200000	-0.800000	0.200000	0	0.331000	0.348385	0.348385	0.733333	0.733333	1	8
+HNP00_000015	HNP00_000014	-0.454938	-0.454938	-0.454938	1	1	4	0	0.237000	-0.330020	0.669980	-0.330020	0.669980	0	-0.800000	0.200000	-0.800000	0.200000	0	0.331000	0.348385	0.348385	0.733333	0.733333	1	9
+HNP00_000015	HNP00_000015	0.586251	0.586251	0.586251	1	1	4	0	0.088000	1.000000	0.000000	1.000000	0.000000	0	1.000000	0.000000	1.000000	0.000000	0	0.331000	0.000000	0.000000	0.000000	0.000000	1	10
+HNP00_000015	HNP00_000016	0.454938	0.454938	0.454938	1	1	4	0	0.331000	0.329359	0.670641	0.329359	0.670641	0	0.800000	0.200000	0.800000	0.200000	0	0.331000	0.348385	0.348385	0.733333	0.733333	1	11
+HNP00_000015		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+HNP00_000015		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+HNP00_000015		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+HNP00_000015		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+HNP00_000015		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+HNP00_000015		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+HNP00_000015		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+HNP00_000015		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+HNP00_000015		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+HNP00_000015		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+HNP00_000015		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+HNP00_000015		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+HNP00_000015		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+HNP00_000015		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+HNP00_000015		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+HNP00_000015		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+HNP00_000015		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+HNP00_000015		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+HNP00_000015		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+HNP00_000015		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+	HNP00_000002	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	1
+	HNP00_000003	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	2
+	HNP00_000004	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	3
+	HNP00_000005	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	4
+	HNP00_000006	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	5
+	HNP00_000007	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	6
+	HNP00_000011	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	7
+	HNP00_000013	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	8
+	HNP00_000014	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	9
+	HNP00_000015	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	10
+	HNP00_000016	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	11
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+HNP00_000006	HNP00_000002	0.586251	0.586251	0.586251	1	1	4	0	0.073000	0.990226	0.009774	0.990226	0.009774	0	1.000000	0.000000	1.000000	0.000000	0	0.053714	0.026063	0.026063	0.000000	0.000000	1	1
+HNP00_000006	HNP00_000003	0.586251	0.586251	0.586251	1	1	4	0	0.090000	0.864475	0.135525	0.864475	0.135525	0	1.000000	0.000000	1.000000	0.000000	0	0.053714	0.216841	0.216841	0.000000	0.000000	1	2
+HNP00_000006	HNP00_000004	0.349677	0.349677	0.349677	3	3	2	0	0.505000	0.247343	0.752657	0.247343	0.752657	0	0.400000	0.600000	0.400000	0.600000	0	0.144286	0.576948	0.576948	0.290909	0.290909	1	3
+HNP00_000006	HNP00_000005	0.454938	0.454938	0.454938	1	1	4	0	0.342000	0.802998	0.197002	0.802998	0.197002	0	0.800000	0.200000	0.800000	0.200000	0	0.144286	0.262669	0.262669	0.133333	0.133333	1	4
+HNP00_000006	HNP00_000006	0.586251	0.586251	0.586251	1	1	4	0	0.068000	1.000000	0.000000	1.000000	0.000000	0	1.000000	0.000000	1.000000	0.000000	0	0.053714	0.000000	0.000000	0.000000	0.000000	1	5
+HNP00_000006	HNP00_000007	0.586251	0.586251	0.586251	1	1	4	0	0.094000	0.953613	0.046387	0.953613	0.046387	0	1.000000	0.000000	1.000000	0.000000	0	0.053714	0.092774	0.092774	0.000000	0.000000	1	6
+HNP00_000006	HNP00_000011	0.586251	0.586251	0.586251	1	1	4	0	0.084000	0.997475	0.002525	0.997475	0.002525	0	1.000000	0.000000	1.000000	0.000000	0	0.053714	0.010098	0.010098	0.000000	0.000000	1	7
+HNP00_000006	HNP00_000013	-0.349677	-0.349677	-0.349677	1	1	2	0	0.484000	-0.206697	0.793303	-0.206697	0.793303	0	-0.400000	0.600000	-0.400000	0.600000	0	0.144286	0.576948	0.576948	0.290909	0.290909	1	8
+HNP00_000006	HNP00_000014	-0.349677	-0.349677	-0.349677	1	1	2	0	0.468000	-0.538431	0.461569	-0.538431	0.461569	0	-0.400000	0.600000	-0.400000	0.600000	0	0.144286	0.424299	0.424299	0.290909	0.290909	1	9
+HNP00_000006	HNP00_000015	-0.293125	-0.293125	-0.293125	3	3	2	0	0.694000	-0.617213	0.382787	-0.617213	0.382787	0	-0.200000	0.800000	-0.200000	0.800000	0	0.180260	0.424299	0.424299	0.290909	0.290909	1	10
+HNP00_000006	HNP00_000016	0.349677	0.349677	0.349677	1	1	2	0	0.358000	0.522663	0.477337	0.522663	0.477337	0	0.400000	0.600000	0.400000	0.600000	0	0.144286	0.424299	0.424299	0.290909	0.290909	1	11
+HNP00_000006		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+HNP00_000006		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+HNP00_000006		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+HNP00_000006		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+HNP00_000006		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+HNP00_000006		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+HNP00_000006		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+HNP00_000006		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+HNP00_000006		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+HNP00_000006		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+HNP00_000006		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+HNP00_000006		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+HNP00_000006		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+HNP00_000006		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+HNP00_000006		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+HNP00_000006		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+HNP00_000006		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+HNP00_000006		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+HNP00_000006		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+HNP00_000006		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+	HNP00_000002	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	1
+	HNP00_000003	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	2
+	HNP00_000004	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	3
+	HNP00_000005	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	4
+	HNP00_000006	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	5
+	HNP00_000007	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	6
+	HNP00_000011	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	7
+	HNP00_000013	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	8
+	HNP00_000014	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	9
+	HNP00_000015	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	10
+	HNP00_000016	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	11
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+HNP00_000004	HNP00_000002	0.349677	0.349677	0.349677	3	3	2	0	0.501000	0.109802	0.890198	0.109802	0.890198	0	0.400000	0.600000	0.400000	0.600000	0	0.537662	0.878573	0.878573	0.733333	0.733333	1	1
+HNP00_000004	HNP00_000003	0.349677	0.349677	0.349677	3	3	2	0	0.470000	0.172226	0.827774	0.172226	0.827774	0	0.400000	0.600000	0.400000	0.600000	0	0.537662	0.878573	0.878573	0.733333	0.733333	1	2
+HNP00_000004	HNP00_000004	0.586251	0.586251	0.586251	1	1	4	0	0.088000	1.000000	0.000000	1.000000	0.000000	0	1.000000	0.000000	1.000000	0.000000	0	0.537662	0.000000	0.000000	0.000000	0.000000	1	3
+HNP00_000004	HNP00_000005	0.537542	0.537542	0.537542	3	3	2	0	0.172000	0.692517	0.307483	0.692517	0.307483	0	0.800000	0.200000	0.800000	0.200000	0	0.537662	0.572202	0.572202	0.733333	0.733333	1	4
+HNP00_000004	HNP00_000006	0.349677	0.349677	0.349677	3	3	2	0	0.498000	0.247343	0.752657	0.247343	0.752657	0	0.400000	0.600000	0.400000	0.600000	0	0.537662	0.878573	0.878573	0.733333	0.733333	1	5
+HNP00_000004	HNP00_000007	0.349677	0.349677	0.349677	3	3	2	0	0.492000	-0.033570	0.966430	-0.033570	0.966430	0	0.400000	0.600000	0.400000	0.600000	0	0.537662	0.878573	0.878573	0.733333	0.733333	1	6
+HNP00_000004	HNP00_000011	0.349677	0.349677	0.349677	3	3	2	0	0.510000	0.253595	0.746405	0.253595	0.746405	0	0.400000	0.600000	0.400000	0.600000	0	0.537662	0.878573	0.878573	0.733333	0.733333	1	7
+HNP00_000004	HNP00_000013	0.323625	0.323625	0.323625	1	1	4	0	0.668000	0.896683	0.103317	0.896683	0.103317	0	0.600000	0.400000	0.600000	0.400000	0	0.537662	0.344389	0.344389	0.733333	0.733333	1	8
+HNP00_000004	HNP00_000014	0.323625	0.323625	0.323625	1	1	4	0	0.657000	0.682924	0.317076	0.682924	0.317076	0	0.600000	0.400000	0.600000	0.400000	0	0.537662	0.572202	0.572202	0.733333	0.733333	1	9
+HNP00_000004	HNP00_000015	-0.454938	-0.454938	-0.454938	1	1	4	0	0.326000	-0.912846	0.087154	-0.912846	0.087154	0	-0.800000	0.200000	-0.800000	0.200000	0	0.537662	0.344389	0.344389	0.733333	0.733333	1	10
+HNP00_000004	HNP00_000016	-0.323625	-0.323625	-0.323625	1	1	4	0	0.690000	-0.656679	0.343321	-0.656679	0.343321	0	-0.600000	0.400000	-0.600000	0.400000	0	0.537662	0.572202	0.572202	0.733333	0.733333	1	11
+HNP00_000004		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+HNP00_000004		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+HNP00_000004		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+HNP00_000004		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+HNP00_000004		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+HNP00_000004		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+HNP00_000004		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+HNP00_000004		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+HNP00_000004		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+HNP00_000004		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+HNP00_000004		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+HNP00_000004		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+HNP00_000004		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+HNP00_000004		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+HNP00_000004		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+HNP00_000004		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+HNP00_000004		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+HNP00_000004		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+HNP00_000004		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+HNP00_000004		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+HNP00_000014	HNP00_000002	-0.349677	-0.349677	-0.349677	1	1	2	0	0.462000	-0.650678	0.349322	-0.650678	0.349322	0	-0.400000	0.600000	-0.400000	0.600000	0	0.518889	0.539358	0.539358	0.750000	0.750000	1	1
+HNP00_000014	HNP00_000003	-0.349677	-0.349677	-0.349677	1	1	2	0	0.456000	-0.514577	0.485423	-0.514577	0.485423	0	-0.400000	0.600000	-0.400000	0.600000	0	0.518889	0.539358	0.539358	0.750000	0.750000	1	2
+HNP00_000014	HNP00_000004	0.323625	0.323625	0.323625	1	1	4	0	0.668000	0.682924	0.317076	0.682924	0.317076	0	0.600000	0.400000	0.600000	0.400000	0	0.668000	0.539358	0.539358	0.750000	0.750000	1	3
+HNP00_000014	HNP00_000005	0.161812	0.161812	0.161812	3	3	2	0	1.000000	-0.011010	0.988990	-0.011010	0.988990	0	0.000000	1.000000	0.000000	1.000000	0	0.909091	0.899082	0.899082	0.909091	0.909091	1	4
+HNP00_000014	HNP00_000006	-0.349677	-0.349677	-0.349677	1	1	2	0	0.467000	-0.538431	0.461569	-0.538431	0.461569	0	-0.400000	0.600000	-0.400000	0.600000	0	0.518889	0.539358	0.539358	0.750000	0.750000	1	5
+HNP00_000014	HNP00_000007	-0.349677	-0.349677	-0.349677	1	1	2	0	0.439000	-0.750657	0.249343	-0.750657	0.249343	0	-0.400000	0.600000	-0.400000	0.600000	0	0.518889	0.539358	0.539358	0.750000	0.750000	1	6
+HNP00_000014	HNP00_000011	-0.349677	-0.349677	-0.349677	1	1	2	0	0.465000	-0.532922	0.467078	-0.532922	0.467078	0	-0.400000	0.600000	-0.400000	0.600000	0	0.518889	0.539358	0.539358	0.750000	0.750000	1	7
+HNP00_000014	HNP00_000013	0.586251	0.586251	0.586251	1	1	4	0	0.086000	0.934691	0.065309	0.934691	0.065309	0	1.000000	0.000000	1.000000	0.000000	0	0.336667	0.217697	0.217697	0.000000	0.000000	1	8
+HNP00_000014	HNP00_000014	0.586251	0.586251	0.586251	1	1	4	0	0.082000	1.000000	0.000000	1.000000	0.000000	0	1.000000	0.000000	1.000000	0.000000	0	0.336667	0.000000	0.000000	0.000000	0.000000	1	9
+HNP00_000014	HNP00_000015	-0.454938	-0.454938	-0.454938	1	1	4	0	0.303000	-0.330020	0.669980	-0.330020	0.669980	0	-0.800000	0.200000	-0.800000	0.200000	0	0.518889	0.669980	0.669980	0.500000	0.500000	1	10
+HNP00_000014	HNP00_000016	-0.586251	-0.586251	-0.586251	1	1	4	0	0.101000	-0.971425	0.028575	-0.971425	0.028575	0	-1.000000	0.000000	-1.000000	0.000000	0	0.336667	0.142875	0.142875	0.000000	0.000000	1	11
+HNP00_000014		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+HNP00_000014		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+HNP00_000014		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+HNP00_000014		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+HNP00_000014		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+HNP00_000014		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+HNP00_000014		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+HNP00_000014		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+HNP00_000014		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+HNP00_000014		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+HNP00_000014		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+HNP00_000014		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+HNP00_000014		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+HNP00_000014		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+HNP00_000014		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+HNP00_000014		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+HNP00_000014		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+HNP00_000014		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+HNP00_000014		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+HNP00_000014		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+	HNP00_000002	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	1
+	HNP00_000003	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	2
+	HNP00_000004	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	3
+	HNP00_000005	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	4
+	HNP00_000006	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	5
+	HNP00_000007	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	6
+	HNP00_000011	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	7
+	HNP00_000013	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	8
+	HNP00_000014	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	9
+	HNP00_000015	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	10
+	HNP00_000016	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	11
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+HNP00_000013	HNP00_000002	-0.349677	-0.349677	-0.349677	1	1	2	0	0.475000	-0.341057	0.658943	-0.341057	0.658943	0	-0.400000	0.600000	-0.400000	0.600000	0	0.533333	0.364624	0.364624	0.750000	0.750000	1	1
+HNP00_000013	HNP00_000003	-0.349677	-0.349677	-0.349677	1	1	2	0	0.459000	-0.210721	0.789279	-0.210721	0.789279	0	-0.400000	0.600000	-0.400000	0.600000	0	0.533333	0.364624	0.364624	0.750000	0.750000	1	2
+HNP00_000013	HNP00_000004	0.323625	0.323625	0.323625	1	1	4	0	0.659000	0.896683	0.103317	0.896683	0.103317	0	0.600000	0.400000	0.600000	0.400000	0	0.659000	0.129630	0.129630	0.750000	0.750000	1	3
+HNP00_000013	HNP00_000005	0.161812	0.161812	0.161812	3	3	2	0	1.000000	0.338791	0.661209	0.338791	0.661209	0	0.000000	1.000000	0.000000	1.000000	0	0.909091	0.364624	0.364624	0.909091	0.909091	1	4
+HNP00_000013	HNP00_000006	-0.349677	-0.349677	-0.349677	1	1	2	0	0.461000	-0.206697	0.793303	-0.206697	0.793303	0	-0.400000	0.600000	-0.400000	0.600000	0	0.533333	0.364624	0.364624	0.750000	0.750000	1	5
+HNP00_000013	HNP00_000007	-0.349677	-0.349677	-0.349677	1	1	2	0	0.458000	-0.466835	0.533165	-0.466835	0.533165	0	-0.400000	0.600000	-0.400000	0.600000	0	0.533333	0.364624	0.364624	0.750000	0.750000	1	6
+HNP00_000013	HNP00_000011	-0.349677	-0.349677	-0.349677	1	1	2	0	0.480000	-0.197828	0.802172	-0.197828	0.802172	0	-0.400000	0.600000	-0.400000	0.600000	0	0.533333	0.364624	0.364624	0.750000	0.750000	1	7
+HNP00_000013	HNP00_000013	0.586251	0.586251	0.586251	1	1	4	0	0.083000	1.000000	0.000000	1.000000	0.000000	0	1.000000	0.000000	1.000000	0.000000	0	0.306667	0.000000	0.000000	0.000000	0.000000	1	8
+HNP00_000013	HNP00_000014	0.586251	0.586251	0.586251	1	1	4	0	0.080000	0.934691	0.065309	0.934691	0.065309	0	1.000000	0.000000	1.000000	0.000000	0	0.306667	0.129630	0.129630	0.000000	0.000000	1	9
+HNP00_000013	HNP00_000015	-0.454938	-0.454938	-0.454938	1	1	4	0	0.318000	-0.638705	0.361295	-0.638705	0.361295	0	-0.800000	0.200000	-0.800000	0.200000	0	0.533333	0.361295	0.361295	0.500000	0.500000	1	10
+HNP00_000013	HNP00_000016	-0.586251	-0.586251	-0.586251	1	1	4	0	0.092000	-0.896296	0.103704	-0.896296	0.103704	0	-1.000000	0.000000	-1.000000	0.000000	0	0.306667	0.129630	0.129630	0.000000	0.000000	1	11
+HNP00_000013		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+HNP00_000013		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+HNP00_000013		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+HNP00_000013		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+HNP00_000013		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+HNP00_000013		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+HNP00_000013		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+HNP00_000013		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+HNP00_000013		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+HNP00_000013		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+HNP00_000013		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+HNP00_000013		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+HNP00_000013		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+HNP00_000013		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+HNP00_000013		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+HNP00_000013		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+HNP00_000013		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+HNP00_000013		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+HNP00_000013		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+HNP00_000013		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+HNP00_000011	HNP00_000002	0.586251	0.586251	0.586251	1	1	4	0	0.110000	0.986869	0.013131	0.986869	0.013131	0	1.000000	0.000000	1.000000	0.000000	0	0.073333	0.021885	0.021885	0.000000	0.000000	1	1
+HNP00_000011	HNP00_000003	0.586251	0.586251	0.586251	1	1	4	0	0.102000	0.897375	0.102625	0.897375	0.102625	0	1.000000	0.000000	1.000000	0.000000	0	0.073333	0.102625	0.102625	0.000000	0.000000	1	2
+HNP00_000011	HNP00_000004	0.349677	0.349677	0.349677	3	3	2	0	0.494000	0.253595	0.746405	0.253595	0.746405	0	0.400000	0.600000	0.400000	0.600000	0	0.164667	0.364624	0.364624	0.290909	0.290909	1	3
+HNP00_000011	HNP00_000005	0.454938	0.454938	0.454938	1	1	4	0	0.347000	0.826408	0.173592	0.826408	0.173592	0	0.800000	0.200000	0.800000	0.200000	0	0.164667	0.144660	0.144660	0.133333	0.133333	1	4
+HNP00_000011	HNP00_000006	0.586251	0.586251	0.586251	1	1	4	0	0.094000	0.997475	0.002525	0.997475	0.002525	0	1.000000	0.000000	1.000000	0.000000	0	0.073333	0.006311	0.006311	0.000000	0.000000	1	5
+HNP00_000011	HNP00_000007	0.586251	0.586251	0.586251	1	1	4	0	0.090000	0.957379	0.042621	0.957379	0.042621	0	1.000000	0.000000	1.000000	0.000000	0	0.073333	0.053277	0.053277	0.000000	0.000000	1	6
+HNP00_000011	HNP00_000011	0.586251	0.586251	0.586251	1	1	4	0	0.078000	1.000000	0.000000	1.000000	0.000000	0	1.000000	0.000000	1.000000	0.000000	0	0.073333	0.000000	0.000000	0.000000	0.000000	1	7
+HNP00_000011	HNP00_000013	-0.349677	-0.349677	-0.349677	1	1	2	0	0.490000	-0.197828	0.802172	-0.197828	0.802172	0	-0.400000	0.600000	-0.400000	0.600000	0	0.164667	0.364624	0.364624	0.290909	0.290909	1	8
+HNP00_000011	HNP00_000014	-0.349677	-0.349677	-0.349677	1	1	2	0	0.458000	-0.532922	0.467078	-0.532922	0.467078	0	-0.400000	0.600000	-0.400000	0.600000	0	0.164667	0.259488	0.259488	0.290909	0.290909	1	9
+HNP00_000011	HNP00_000015	-0.293125	-0.293125	-0.293125	3	3	2	0	0.710000	-0.617036	0.382964	-0.617036	0.382964	0	-0.200000	0.800000	-0.200000	0.800000	0	0.215152	0.259488	0.259488	0.290909	0.290909	1	10
+HNP00_000011	HNP00_000016	0.349677	0.349677	0.349677	1	1	2	0	0.373000	0.534125	0.465875	0.534125	0.465875	0	0.400000	0.600000	0.400000	0.600000	0	0.164667	0.259488	0.259488	0.290909	0.290909	1	11
+HNP00_000011		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+HNP00_000011		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+HNP00_000011		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+HNP00_000011		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+HNP00_000011		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+HNP00_000011		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+HNP00_000011		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+HNP00_000011		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+HNP00_000011		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+HNP00_000011		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+HNP00_000011		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+HNP00_000011		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+HNP00_000011		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+HNP00_000011		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+HNP00_000011		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+HNP00_000011		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+HNP00_000011		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+HNP00_000011		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+HNP00_000011		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+HNP00_000011		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+HNP00_000005	HNP00_000002	0.454938	0.454938	0.454938	1	1	4	0	0.341000	0.724642	0.275358	0.724642	0.275358	0	0.800000	0.200000	0.800000	0.200000	0	0.551571	0.468041	0.468041	0.550000	0.550000	1	1
+HNP00_000005	HNP00_000003	0.454938	0.454938	0.454938	1	1	4	0	0.317000	0.826949	0.173051	0.826949	0.173051	0	0.800000	0.200000	0.800000	0.200000	0	0.551571	0.433403	0.433403	0.550000	0.550000	1	2
+HNP00_000005	HNP00_000004	0.537542	0.537542	0.537542	3	3	2	0	0.187000	0.692517	0.307483	0.692517	0.307483	0	0.800000	0.200000	0.800000	0.200000	0	0.551571	0.468041	0.468041	0.550000	0.550000	1	3
+HNP00_000005	HNP00_000005	0.586251	0.586251	0.586251	1	1	4	0	0.081000	1.000000	0.000000	1.000000	0.000000	0	1.000000	0.000000	1.000000	0.000000	0	0.551571	0.000000	0.000000	0.000000	0.000000	1	4
+HNP00_000005	HNP00_000006	0.454938	0.454938	0.454938	1	1	4	0	0.351000	0.802998	0.197002	0.802998	0.197002	0	0.800000	0.200000	0.800000	0.200000	0	0.551571	0.433403	0.433403	0.550000	0.550000	1	5
+HNP00_000005	HNP00_000007	0.454938	0.454938	0.454938	1	1	4	0	0.327000	0.659606	0.340394	0.659606	0.340394	0	0.800000	0.200000	0.800000	0.200000	0	0.551571	0.468041	0.468041	0.550000	0.550000	1	6
+HNP00_000005	HNP00_000011	0.454938	0.454938	0.454938	1	1	4	0	0.327000	0.826408	0.173592	0.826408	0.173592	0	0.800000	0.200000	0.800000	0.200000	0	0.551571	0.433403	0.433403	0.550000	0.550000	1	7
+HNP00_000005	HNP00_000013	0.161812	0.161812	0.161812	3	3	2	0	1.000000	0.338791	0.661209	0.338791	0.661209	0	0.000000	1.000000	0.000000	1.000000	0	1.000000	0.808144	0.808144	1.000000	1.000000	1	8
+HNP00_000005	HNP00_000014	0.161812	0.161812	0.161812	3	3	2	0	1.000000	-0.011010	0.988990	-0.011010	0.988990	0	0.000000	1.000000	0.000000	1.000000	0	1.000000	0.988990	0.988990	1.000000	1.000000	1	9
+HNP00_000005	HNP00_000015	-0.349677	-0.349677	-0.349677	3	3	2	0	0.521000	-0.877242	0.122758	-0.877242	0.122758	0	-0.400000	0.600000	-0.400000	0.600000	0	0.716375	0.433403	0.433403	0.825000	0.825000	1	10
+HNP00_000005	HNP00_000016	-0.161812	-0.161812	-0.161812	3	3	2	0	1.000000	0.087240	0.912760	0.087240	0.912760	0	0.000000	1.000000	0.000000	1.000000	0	1.000000	0.988990	0.988990	1.000000	1.000000	1	11
+HNP00_000005		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+HNP00_000005		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+HNP00_000005		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+HNP00_000005		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+HNP00_000005		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+HNP00_000005		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+HNP00_000005		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+HNP00_000005		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+HNP00_000005		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+HNP00_000005		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+HNP00_000005		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+HNP00_000005		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+HNP00_000005		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+HNP00_000005		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+HNP00_000005		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+HNP00_000005		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+HNP00_000005		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+HNP00_000005		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+HNP00_000005		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+HNP00_000005		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31
+	HNP00_000002	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	1
+	HNP00_000003	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	2
+	HNP00_000004	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	3
+	HNP00_000005	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	4
+	HNP00_000006	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	5
+	HNP00_000007	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	6
+	HNP00_000011	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	7
+	HNP00_000013	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	8
+	HNP00_000014	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	9
+	HNP00_000015	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	10
+	HNP00_000016	0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	11
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	12
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	13
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	14
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	15
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	16
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	17
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	18
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	19
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	20
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	21
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	22
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	23
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	24
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	25
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	26
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	27
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	28
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	29
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	30
+		0	0	0	-2	-2	0	0	1	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	1	31

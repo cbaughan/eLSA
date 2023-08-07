@@ -1,0 +1,11 @@
+#!/bin/bash
+#PBS -N ARISA20.txt.7 
+#PBS -S /bin/bash 
+#PBS -j oe
+#PBS -o ARISA20.txt.7.log
+#PBS -l walltime=299:00:00
+#PBS -l nodes=1:ppn=1,mem=12000mb,vmem=12000mb,pmem=12000mb
+cd /home/u22/christinagb/elsa/test
+lsa_compute /home/u22/christinagb/elsa/test/ARISA20.txt.7 /home/u22/christinagb/elsa/test/ARISA20.txt.7.tmp -e ARISA20.txt -s 127 -r 1 -p theo
+touch /home/u22/christinagb/elsa/test/ARISA20.txt.7.end
+rm -f /home/u22/christinagb/elsa/test/ARISA20.txt.7 /home/u22/christinagb/elsa/test/ARISA20.txt.7.pbs
