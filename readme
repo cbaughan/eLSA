@@ -1,0 +1,42 @@
+eLSA installation using conda on University of Arizona HPC
+
+I recommend getting familiar with basic Linux commands.
+https://www.digitalocean.com/community/tutorials/linux-commands
+
+If you do not have a UArizona HPC account. Follow this link to create one. 
+https://public.confluence.arizona.edu/display/UAHPC/Account+Creation#AccountCreation-SponsoredHPCAccountInstructions
+
+Input Paul Carini’s email(paulcarini@arizona.edu) for a sponsor request.
+Log in with your net ID to set up an account
+
+Mac Users:
+Open Terminal and ssh into the Uarizona HPC with your UArizona HPC username and password
+
+Example
+
+ 
+Type “shell”. This will automatically connect you to the Puma cluster
+
+We are going to install a conda using an interactive session
+(puma) [christinagb@wentletrap ~]$ interactive -a paulcarini
+1.	Activate conda
+conda activate
+2.	Create and name the conda environment with python 2.7
+conda create –name elsa python=2.7
+3.	Activate the conda environment
+conda activate elsa
+4.	Retrieve the elsa files from Hannah Holland-Moritz’ github and rename directory
+wget -O elsa.zip https://github.com/hhollandmoritz/elsa/archive/84b7a742a70a1b2a8490b3d31cbe1df3b89d5fd8.zip Unzip the files
+Unzip main.zip
+5.	Go into the new elsa directory
+cd elsa_conda_env-main
+Check to make sure we have the correct version of Python. Should be Python 2.7.15
+python –version
+6.	Input the following commands one by one and enter after each line
+pip install –upgrade pip
+pip install pyserial
+pip install version_utils
+pip install scipy
+python setup.py
+
+
