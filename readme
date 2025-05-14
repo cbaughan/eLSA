@@ -1,42 +1,101 @@
-eLSA installation using conda on University of Arizona HPC
+eLSA installation using conda 
 
-I recommend getting familiar with basic Linux commands.
-https://www.digitalocean.com/community/tutorials/linux-commands
+By Christina Guerrero 
 
-If you do not have a UArizona HPC account. Follow this link to create one. 
-https://public.confluence.arizona.edu/display/UAHPC/Account+Creation#AccountCreation-SponsoredHPCAccountInstructions
-
-Input Paul Carini’s email(paulcarini@arizona.edu) for a sponsor request.
-Log in with your net ID to set up an account
-
-Mac Users:
-Open Terminal and ssh into the Uarizona HPC with your UArizona HPC username and password
-
-Example
+Christinagb@arizona.edu 
 
  
-Type “shell”. This will automatically connect you to the Puma cluster
 
-We are going to install a conda using an interactive session
-(puma) [christinagb@wentletrap ~]$ interactive -a paulcarini
-1.	Activate conda
-conda activate
-2.	Create and name the conda environment with python 2.7
-conda create –name elsa python=2.7
-3.	Activate the conda environment
-conda activate elsa
-4.	Retrieve the elsa files from Hannah Holland-Moritz’ github and rename directory
-wget -O elsa.zip https://github.com/hhollandmoritz/elsa/archive/84b7a742a70a1b2a8490b3d31cbe1df3b89d5fd8.zip Unzip the files
-Unzip main.zip
-5.	Go into the new elsa directory
-cd elsa_conda_env-main
-Check to make sure we have the correct version of Python. Should be Python 2.7.15
-python –version
-6.	Input the following commands one by one and enter after each line
-pip install –upgrade pip
-pip install pyserial
-pip install version_utils
-pip install scipy
-python setup.py
+Update 5/14/25: Create a conda environment using micromamba instead of conda  
+
+ 
+
+I recommend getting familiar with basic Linux commands.  
+
+ 
+
+Log in to the UArizona HPC. 
+
+If you don’t have an account, follow the link for HPC registration instructions and use Paul Carini’s email (paulcarini@arizona.edu) as your sponsor. 
+
+Open a terminal and connect to the Elgato cluster. 
+
+Use SSH or Open OnDemand as appropriate. 
+
+Example 
+
+A computer screen with green text
+
+Description automatically generated 
+
+ 
+
+You can also go to terminal using Open on Demand.  
+
+Files -> Home Directory >_Open in Terminal  
+
+	Once you’re in the terminal, switch to the Elgato cluster by typing ’elgato’ 
+
+Start an interactive session: 
+
+ 
+
+(elgato) [christinagb@wentletrap ~]$ interactive -a paulcarini 
+
+Load micromamba and initialize it if you haven't already: 
+
+ 
+
+module load micromamba/ 
+micromamba shell init -s bash -r ~/micromamba 
+source ~/.bashrc 
+
+ 
+
+Create the micromamba environment in the group storage: 
+
+ 
+
+micromamba create --prefix /groups/paulcarini/envs/charade python=2.7 
+
+ 
+
+Activate the environment 
+
+Micromamba activate charade 
+
+ 
+
+Clone the eLSA repository from your GitHub: 
+
+git clone https://github.com/cbaughan/eLSA.git 
+
+cd eLSA 
+
+Check to make sure we have the correct version of Python  
+
+python –version 
+
+Should be Python 2.7.15 
+
+Run the installation script 
+
+Sbatch install_elsa.sh 
+
+ 
+
+Summary: 
+
+You must use git clone to get the full, editable, and up-to-date version of the files you prepared for the HPC. 
+
+All environment management should be done with micromamba, not conda. 
+
+If there is an error check the files to see if they need to be updated to micromamba 
+
+Always activate the environment before running any installation or analysis scripts. 
+
+ 
+
+\ 
 
 
